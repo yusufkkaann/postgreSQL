@@ -11,3 +11,10 @@
 <img width="445" alt="Ekran Resmi 2024-04-23 16 25 23" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/82fcd75b-7a1f-495d-8b30-c07cd6c8cada">
 <img width="385" alt="Ekran Resmi 2024-04-23 16 24 23" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/270123fd-d1fc-4861-b2b4-cdfecf0f99aa">
 
+----COUNT-DISTINCT-----
+
+![Ekran Resmi 2024-04-23 17 25 49](https://github.com/yusufkkaann/postgreSQL/assets/93669959/13dffc08-ff79-42c4-b168-cfccee62806b)
+![Ekran Resmi 2024-04-23 17 24 23](https://github.com/yusufkkaann/postgreSQL/assets/93669959/466cf916-5343-44b2-b80f-829c4038780e)
+![Ekran Resmi 2024-04-23 17 22 44](https://github.com/yusufkkaann/postgreSQL/assets/93669959/036ad613-d814-4a89-bef8-baf042db791b)
+![Ekran Resmi 2024-04-23 17 20 13](https://github.com/yusufkkaann/postgreSQL/assets/93669959/5ad2bfba-f70e-4a22-977e-4b3b14638265)
+![Ekran Resmi 2024-04-23 17 19 38](https://github.com/yusufkkaann/postgreSQL/assets/93669959/d4cdb93f-889c-4d12-a905-150ef5ced610)
