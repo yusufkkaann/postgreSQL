@@ -25,3 +25,11 @@
 <img width="1158" alt="Ekran Resmi 2024-04-25 20 54 18" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/8052e367-b0ed-4c5a-93e9-3c66728fb3ff">
 <img width="1159" alt="Ekran Resmi 2024-04-25 20 50 38" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/8154e873-da26-4b0e-9ce3-efd5c9ec6cba">
 
+---AGGREGATE FONKSİYONLARI---
+
+<img width="566" alt="Ekran Resmi 2024-04-25 21 39 54" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/3db562db-55aa-47f2-90e3-3e909e00a67c">
+<img width="415" alt="Ekran Resmi 2024-04-25 21 37 55" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/bc5028ca-e23a-45cd-a43a-5e4fe90dd618">
+<img width="446" alt="Ekran Resmi 2024-04-25 21 36 47" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/0eb4bd7a-8304-41ba-b391-6ac2eea0e062">
+<img width="487" alt="Ekran Resmi 2024-04-25 21 35 43" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/6dada1f5-70c6-4081-a353-b157c3513fdc">
+
+
