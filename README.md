@@ -18,3 +18,10 @@
 ![Ekran Resmi 2024-04-23 17 22 44](https://github.com/yusufkkaann/postgreSQL/assets/93669959/036ad613-d814-4a89-bef8-baf042db791b)
 ![Ekran Resmi 2024-04-23 17 20 13](https://github.com/yusufkkaann/postgreSQL/assets/93669959/5ad2bfba-f70e-4a22-977e-4b3b14638265)
 ![Ekran Resmi 2024-04-23 17 19 38](https://github.com/yusufkkaann/postgreSQL/assets/93669959/d4cdb93f-889c-4d12-a905-150ef5ced610)
+
+---ORDER BY - LIMIT - OFFSET---
+
+<img width="1163" alt="Ekran Resmi 2024-04-25 20 55 48" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/0768ad4c-2c3a-4656-b80e-6cd474cdd6fc">
+<img width="1158" alt="Ekran Resmi 2024-04-25 20 54 18" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/8052e367-b0ed-4c5a-93e9-3c66728fb3ff">
+<img width="1159" alt="Ekran Resmi 2024-04-25 20 50 38" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/8154e873-da26-4b0e-9ce3-efd5c9ec6cba">
+
