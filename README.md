@@ -32,4 +32,10 @@
 <img width="446" alt="Ekran Resmi 2024-04-25 21 36 47" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/0eb4bd7a-8304-41ba-b391-6ac2eea0e062">
 <img width="487" alt="Ekran Resmi 2024-04-25 21 35 43" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/6dada1f5-70c6-4081-a353-b157c3513fdc">
 
+---GROUP BY---
+
+<img width="387" alt="Ekran Resmi 2024-04-28 11 47 20" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/1cff022a-6df0-4524-ad2d-61d542366fc3">
+<img width="434" alt="Ekran Resmi 2024-04-28 11 41 37" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/c56281ab-568e-4c24-8a46-ece1bfc45f11">
+<img width="481" alt="Ekran Resmi 2024-04-28 11 39 19" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/2170f18b-316a-47bd-b8fd-3c7f59ac7f14">
+<img width="351" alt="Ekran Resmi 2024-04-25 22 12 34" src="https://github.com/yusufkkaann/postgreSQL/assets/93669959/3003bd60-80cd-4f72-a7d2-b05564916cf5">
 
